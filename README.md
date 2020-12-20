@@ -1,7 +1,7 @@
 # TheGameRoom
 Portfolio &amp; Project Three for SNHU CS-230 Operating Platforms Course
 
-Module 8 Journal
+Module 8 Journal:
 Briefly summarize The Gaming Room client and their software requirements. 
 
 01. Who was the client? 
