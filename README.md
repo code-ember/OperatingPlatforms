@@ -1,8 +1,6 @@
 ## Operating Platforms
 
 Briefly summarize The Gaming Room client and their software requirements.
-### Who was the client?
-The Gaming Room.
 
 ### What type of software did they want you to design?
 We used Java to develop a game app software that would follow a client/server model, which could be used on different operating systems.
