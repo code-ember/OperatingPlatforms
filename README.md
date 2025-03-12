@@ -30,3 +30,5 @@ By following a development process or a life cycle process until completion, ens
 
 ### What techniques or strategies would you use in the future to analyze and design a similar software application?
 Waterfall or Agile project management methods. Additionally, keeping up with the basic tools of project management: scheduling, time management, communication, finance, accounting, organizing, workflow, and planning.
+
+## CS-230
